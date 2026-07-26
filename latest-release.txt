@@ -1,3 +1,7 @@
+https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260725-081106-20260725T093125/OBS-Studio_32.1.2-1-archimage5.0-full-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260725-081106-20260725T093125/OBS-Studio_32.1.2-1-archimage5.0-lite-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260725-081106/OBS-Studio_32.1.2-1-archimage5.0-full-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260725-081106/OBS-Studio_32.1.2-1-archimage5.0-lite-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260718-075630-20260718T091913/OBS-Studio_32.1.2-1-archimage5.0-full-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260718-075630-20260718T091913/OBS-Studio_32.1.2-1-archimage5.0-lite-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260718-075630/OBS-Studio_32.1.2-1-archimage5.0-full-x86_64.AppImage
@@ -54,7 +58,3 @@ https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/downl
 https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260516-080903-20260516T092457/OBS-Studio_32.1.2-1-archimage5.0-lite-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260516-080903/OBS-Studio_32.1.2-1-archimage5.0-full-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260516-080903/OBS-Studio_32.1.2-1-archimage5.0-lite-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260509-080149-20260509T091058/OBS-Studio_32.1.2-1-archimage5.0-full-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260509-080149-20260509T091058/OBS-Studio_32.1.2-1-archimage5.0-lite-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260509-080149/OBS-Studio_32.1.2-1-archimage5.0-full-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_OBS-Studio-appimage/releases/download/20260509-080149/OBS-Studio_32.1.2-1-archimage5.0-lite-x86_64.AppImage
